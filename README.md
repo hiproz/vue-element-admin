@@ -18,6 +18,12 @@
   <a href="https://github.com/PanJiaChen/vue-element-admin/releases">
     <img src="https://img.shields.io/github/release/PanJiaChen/vue-element-admin.svg" alt="GitHub release">
   </a>
+  <a href="https://gitter.im/vue-element-admin/discuss">
+    <img src="https://badges.gitter.im/Join%20Chat.svg" alt="gitter">
+  </a>
+  <a href="https://panjiachen.github.io/vue-element-admin-site/donate">
+    <img src="https://img.shields.io/badge/%24-donate-ff69b4.svg" alt="donate">
+  </a>
 </p>
 
 English | [简体中文](./README.zh-CN.md)
@@ -44,6 +50,7 @@ It is a magical vue admin based on the newest development stack of vue, built-in
 
 - Base template recommends using: [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
 - Desktop: [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
+- Typescript: [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) (Credits: [@Armour](https://github.com/Armour))
 
 **This project does not support low version browsers (e.g. IE). Please add polyfill yourself if you need them.**
 
@@ -122,7 +129,7 @@ Understanding and learning this knowledge in advance will greatly help the use o
 - Error Log
 - Dashboard
 - Guide Page
-- Echarts
+- ECharts
 - Clipboard
 - Markdown to html
 ```
